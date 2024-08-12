@@ -7,15 +7,24 @@ This project presents a comprehensive analysis of customer churn, focusing on ke
 ## Table of Contents
 
    Project Introduction
+   
    Data Overview
+   
    Dashboards Overview
+   
    Churn Dashboard
+   
    Customer Risk Analysis Dashboard
+   
 ## Key Insights
    Demographics
+   
    Customer Account Information
+   
    Service Sign-Up Trends
+   
    Churn Risk Factors
+   
 ## Conclusion
 
 ##DashBoard
