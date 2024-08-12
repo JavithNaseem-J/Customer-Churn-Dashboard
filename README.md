@@ -11,7 +11,7 @@ This project presents a comprehensive analysis of customer churn, focusing on ke
    Dashboards Overview
    Churn Dashboard
    Customer Risk Analysis Dashboard
-##Key Insights
+## Key Insights
      Demographics
      Customer Account Information
      Service Sign-Up Trends
@@ -20,10 +20,10 @@ This project presents a comprehensive analysis of customer churn, focusing on ke
 
 ##DashBoard
 
-###Customer Churn
+### Customer Churn
 ![Screenshot 2024-08-12 103536](https://github.com/user-attachments/assets/2fe958c3-941f-49c7-b917-897b26120828)
 
-###Customer Risk Analysis
+### Customer Risk Analysis
 ![Screenshot 2024-08-12 103551](https://github.com/user-attachments/assets/ad536c5b-8f0d-475c-a2ed-1ee8ae64e2a2)
 
 
