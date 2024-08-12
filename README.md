@@ -12,10 +12,10 @@ This project presents a comprehensive analysis of customer churn, focusing on ke
    Churn Dashboard
    Customer Risk Analysis Dashboard
 ## Key Insights
-     Demographics
-     Customer Account Information
-     Service Sign-Up Trends
-     Churn Risk Factors
+   Demographics
+   Customer Account Information
+   Service Sign-Up Trends
+   Churn Risk Factors
 ## Conclusion
 
 ##DashBoard
@@ -84,6 +84,3 @@ The **Customer Risk Analysis Dashboard** dives deeper into the factors associate
 
 The analysis highlights key areas for intervention, such as customers on month-to-month contracts and those using electronic checks as a payment method. By addressing these areas, businesses can improve retention rates and reduce churn. The dashboards serve as a powerful tool for monitoring ongoing trends and making data-driven decisions to enhance customer satisfaction.
 
----
-
-Feel free to explore the dashboards to gain further insights into customer churn and potential strategies for improving retention.
